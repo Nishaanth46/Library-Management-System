@@ -26,7 +26,7 @@ class _ChatbotPopupState extends State<ChatbotPopup> {
   Offset _position = Offset.zero;
 
   // Your Google Books API key
-  static const String googleApiKey = 'AIzaSyCDXKdEo-cBQVO32-eFNQ4urjlKe7g4RCc';
+  static const String googleApiKey = '//place your apikey';
 
   @override
   void initState() {
